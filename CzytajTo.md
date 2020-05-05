@@ -20,10 +20,11 @@ Otwarte centrum notatek z różnych dziedzin życia w którym wiele osób tworzy
 Jak to wygląda w praktyce:
 
 1. Masz jakiś **jeden (naraz)** materiał, jak książka, artykuł, filmik, film dokumentalny itp...
-2. Tworzysz nowy "branch" w repozytorium z odpowiednią nazwą: **"(TYP_MATERIAŁU)(JĘZYK_MATERIAŁU)(AUTOR)-NAZWA\-MATERIAŁU"**
+2. Tworzysz nowy "branch" w repozytorium z odpowiednią nazwą: **"(TYP\_MATERIAŁU)(JĘZYK\_MATERIAŁU)(AUTOR)-NAZWA\-MATERIAŁU"**
 	1. Typy materiałów: **KSIĄŻKA, ARTYKUŁ, STRONA WWW, WIDEO, FILM, AUDIOBOOK, PODKAST**
 	2. Gdy nie ma jasno podanego autora to nazwa serwisu, kanału lub strony.
-	3. Przykład użycia: **(STRONA WWW)(PL)(VISMAYA-MAITREYA)-BPA-NIEBEZPIECZNA-TOKSYNA**
+	3. Długi tytuł można streścić. Ma być znaczący.
+	4. Przykład użycia: **(STRONA WWW)(PL)(VISMAYA-MAITREYA)-BPA-NIEBEZPIECZNA-TOKSYNA**
 3. Zaktualizuj "Źródła.md" podając źródło materiału
 4. Zrób notatki w odpowiednim pliku/plikach (jeśli materiał jest z kilku dziedzin).
 5. Ewentualne załączniki dodaj w folderze o nazwie notatki który jest w folderze z daną notatką .md.
