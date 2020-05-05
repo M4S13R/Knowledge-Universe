@@ -26,9 +26,10 @@ Jak to wygląda w praktyce:
 	3. Przykład użycia: **(STRONA WWW)(PL)(VISMAYA-MAITREYA)-BPA-NIEBEZPIECZNA-TOKSYNA**
 3. Zaktualizuj "Źródła.md" podając źródło materiału
 4. Zrób notatki w odpowiednim pliku/plikach (jeśli materiał jest z kilku dziedzin).
-5. Ewentualne załączniki dodaj w folderze "pliki" który jest w folderze z daną notatką .md.
+5. Ewentualne załączniki dodaj w folderze o nazwie notatki który jest w folderze z daną notatką .md.
 	1. Pliki nazywają się w formie **"0047\_Bpa-przyklad-pierwszy.jpg"**
-	2. Należy dodać odwołanie do każdego załącznika w tekście. I do każdego odwołania ma być 1 plik. Odwołanie to napisać w formie **"Zobacz przykład @0047"** i jest już wtedy jednoznaczne gdzie go szukać.
+	2. Przykład: notatka "Zdrowie.md" ma załączniki w folderze "Zdrowie" obok tej notatki. Zał. numerujemy od 0001.
+	3. Należy dodać odwołanie do każdego załącznika w tekście. I do każdego odwołania ma być 1 plik. Odwołanie to napisać w formie **"Zobacz przykład @0047"** i jest już wtedy jednoznaczne gdzie go szukać.
 6. "Commituj" zmiany na swój "branch".
 7. Gdy już skończysz, utwórz "pull request"
 8. Twoje zmiany, twój branch, zostanie przyłączony do brancha "master" przez administratora.
