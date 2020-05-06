@@ -17,3 +17,8 @@
 - Poczta Polska wystąpiła do gmin o dane wyborców. Chce plików TXT lub CSV, spakowanych bez hasła. Do tego prośba została podpisana przez 'osobę' "Poczta Polska". Nie widzą z tym problemu.
 - Politechnika Warszawska dopuściła do wycieku danych studentów - nazwiska, emaile, numery indeksów, PESEL, NIP, daty urodzenia, adresy, nazwiska panieńskie matki, oceny, IP, średnie i opłaty - to wszystko było niezaszyfrowane w bazie danych SQL która wyciekła do sieci z systemu "OKNO"
 - Dziura w aplikacji "Kwarantanna Domowa" pozwala na sprawdzenie czy ktoś jest na kwarantannie czy nie poprzez podanie czyjegoś numeru telefonu (jeśli osoba jest na kwarantannie, system wysyła jej 4-cyfrowy kod w SMS i czeka na jego wpisanie, jeśli nie, wyskakuje błąd w aplikacji że nie ma takiej osoby)
+
+## Nadużywanie władzy
+### Policja
+- Policjant o nicku "niebieski_ja" wrzucał na Instagrama zdjęcia praw jazd zatrzymywanych osób (co prawda rozmyte, ale oryginalne są w pamięci jego telefonu i być może na chmurze) (RODO)
+- Policja ignoruje podszywanie się kogoś pod policjanta
