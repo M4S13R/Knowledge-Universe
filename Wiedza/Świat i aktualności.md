@@ -11,7 +11,9 @@
 - Śledzi m.in. lokalizację smartfona. System jest jednak zcentralizowany i nie anonimowy tak jak z założenia. i pozwala na sprawdzenie kto jest kim.
 - Programista, który pracował przy aplikacji ProteGO Safe odradza jej instalację: "Odradzam instalowanie aplikacji ProteGO Safe i innych aplikacji służących do śledzenia kontaktów w bieżącej ich formie."
 - Po interwencji kilku osób, aplikacja szybko zniknęła z zaleceń rządowych na stronie ministerstwa rozwoju "z powodu niedopracowania" (ale prace nad nią nadal trwają).
+- Google i Apple pracują nad podobnymi rozwiązaniami ale zdecentralizowanymi
 - https://github.com/ProteGO-Safe
+- https://github.com/DP-3T
 
 
 ## Instytucje rządowe, publiczne i powiązane
@@ -25,3 +27,6 @@
 ### Policja
 - Policjant o nicku "niebieski_ja" wrzucał na Instagrama zdjęcia praw jazd zatrzymywanych osób (co prawda rozmyte, ale oryginalne są w pamięci jego telefonu i być może na chmurze) (RODO)
 - Policja ignoruje podszywanie się kogoś pod policjanta
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzY0NDAwODUzXX0=
+-->
