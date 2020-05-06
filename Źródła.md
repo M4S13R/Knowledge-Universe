@@ -13,3 +13,4 @@ Przykładowy wpis:
 2. 23.04.2020 "Poczta Polska wystąpiła do gmin o dane wyborców. Chce plików TXT lub CSV, spakowanych bez hasła", https://niebezpiecznik.pl/post/poczta-polska-wystapila-do-gmin-o-dane-wyborcow-chce-plikow-txt-lub-csv-spakowanych-bez-hasla/?similarpost=TOP10
 3. 04.05.2020 "Wyciek danych z Politechniki Warszawskiej – nazwiska, dane kontaktowe, oceny", https://niebezpiecznik.pl/post/wyciek-danych-z-politechniki-warszawskiej-nazwiska-dane-kontaktowe-oceny/
 4. 29.04.2020 "Albo zainstalujesz rządową aplikację ProteGO Safe albo nie wejdziesz do sklepu " https://niebezpiecznik.pl/post/albo-zainstalujesz-rzadowa-aplikacje-protego-safe-albo-nie-wejdziesz-do-sklepu/ 
+5. 28.04.2020 "Jak sprawdzić czy ktoś z Twoich znajomych jest na kwarantannie?", https://niebezpiecznik.pl/post/jak-sprawdzic-czy-ktos-z-twoich-znajomych-jest-na-kwarantannie/
