@@ -2,8 +2,76 @@
 
 # 2020
 ## Koronawirus (COVID-19)
+### Istnienie
+- Były pracownik Vodafone, twierdzi, że może nie istnieć (że to 5G wywołuje skutki). Wirus powstaje poprzez zatrucie komórek promieniowaniem
+
 ### Oszustwo statystyk ilości chorych i zgonów
 - W USA każdy zgon osoby zarażonej wirusem, jest traktowany jako zgon z powodu tego koronawirusa. (np. jeśli ktoś jest chory na serce to też) 
+
+## Sieć 5G
+### Oficjalny cel
+- jest 10 x szybsza niż 4G
+- przyśpieszenie internetu
+- sygnał wewnątrz budynków
+- umożliwienie stworzenia internetu rzeczy
+- samochody autonomiczne
+
+### Promieniowanie
+- promieniowanie radiospektrowe
+- zwiększone spektrum radiowe aby penetrować budynki
+- częstotliwość jest tuż poniżej częstotliwości broni
+
+### Niebezpieczeństwo
+- potwierdzone przez pracownika Vodafone
+- jesteśmy istotami elektromagnetycznymi, nasz system nerwowy to sieć połączeń, neurony wysyłają impulsy elektromagnetyczne do siebie
+- powoduje zatrucie komórkowe, ciało próbuje zwalczyć to zatrucie, wyrzucić toksyczność z naszych białek, ale choroba jest wydzieliną z naszych komórek... ciało wyrzuca tą toksyczność w formie wirusa
+- elektryfikacja przestrzeni...
+- efektywne napromieniowanie komórek powoduje to co jest zwane objawami COVID-19
+- zajmuje ok 6 miesięcy aby uszkodzić ciało
+- "jest udowodnione naukowo, że radioczęstotliwości na które jesteśmy narażeni, są tym co zabija ludzi"
+- szpitale, miasta, lotniska itd. mają 5G
+- Bill Gates zrezygnował z funkcji prezesa w microsoft, teraz zajmuje się szczepionkami i rozwija technologie z nią związane
+- ludzie są zarażani **dopiero podczas testów**
+- zawyżają statystyki aby zgarnąć jeszcze więcej mocy
+
+### Dowody na korelację z COVID-19
+- jednym z pierwszych miejsc gdzie uruchomiono 5G było Wuhan, tam gdzie jest źródło COVID-19
+- następnie była Hiszpania i Włochy
+- Włochy mają więcej ofiar, ponieważ jest więcej anten 5G
+- statki miały zamontowane 5G (Diamond Princess) i tam chorowali też ludzie
+- w Rosji zachorowania zaczęły się dużo później i rzeczywiście 5G było opóźnione
+- promieniowanie nie patrzy na wiek, ani na siłę odporności [uwaga, nie zgadza się ze statystykami na worldometers.info gdzie młodzi prawie nie umierają]
+
+### Możliwe powody potencjalnego spisku
+Wszystkie korzyści z 5G plus (dla władz):
+
+- wprowadzenie nowego systemu ekonomicznego
+- zamknięcie kościołów i rozbicie religijności, aby zabrać ludziom moc i ostatecznie okazać wszystkich swojego antychrysta
+- poziom świadomości coraz szybciej rósł, dlatego przyspieszają to. Wszystko ma się zmienić w przeciągu miesięcy
+- wprowadzanie NWO
+- oligopole = globalizacja wszystkiego: Google, Amazon
+- szczepienia dla wszystkich (która zawiera substancje które sprawiają, że jest się bardziej podatnym na manipulacje)
+- szczepienia zawierają substancje które sprawiają, że 5G będzie bardziej efektywne
+- szczepienia będą zawierały chip, będzie on obsługiwał te płatności i symbolizował "bycie bezpiecznym"
+- nowa cyfrowa, globalna waluta
+- oddanie władzy w ręce AI w przyszłości
+- potrzeba coraz większej inwigilacji
+
+### Powiązane
+- epidemia Hiszpanki w 1919, grypy Hong Kong i kilku innych była spowodowana wprowadzeniem sieci, satelit oraz radarów wojskowych, a teraz sieci 5G
+- zbiorowa modlitwa jest bardzo potężna
+- oliwa z oliwek zawiera światło elektryczne w sobie 
+
+### Co robić
+- podnieść swoje wibracje
+- zrobić detoks swoich ciał
+- posty, głodówki (usprawnia przepływ elektromagnetyczny w ciele i wzmacnia układ odpornościowy) 
+- żyć właściwie, inwestować w siebie i odkryć się na nowo
+- zjednoczyć się i stworzyć coś dobrego
+
+## Internet rzeczy
+
+## Smart grid
 
 ## Inwigilacja i niewolnictwo
 ### ProteGO

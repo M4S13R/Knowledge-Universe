@@ -17,6 +17,8 @@ Przykładowy wpis:
 6. 05.05.2020 "Policjant robi zdjęcia prawom jazdy zatrzymywanych osób i wrzuca je na Instagrama", https://niebezpiecznik.pl/post/policjant-robi-zdjecia-prawom-jazdy-zatrzymywanych-osob-i-wrzuca-je-na-instagrama/
 7. 30.04.2020 "Programista, który pracował przy aplikacji ProteGO Safe odradza jej instalację", https://niebezpiecznik.pl/post/programista-pracujacy-przy-aplikacji-protego-safe-odradza-jej-instalacje/
 8. 29.04.2020 "Dlaczego nie piszę się na Contact Tracing", https://jasisz.github.io/contact-tracing
+9. 03.04.2020 "Były pracownik Vodafone UJAWNIA  prawdziwe OBLICZE KORONAWIRUSA", https://www.youtube.com/watch?v=dk7e9xS3YKQ
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNjY5MjMwOTFdfQ==
 -->
