@@ -5,6 +5,14 @@
 ### Oszustwo statystyk ilości chorych i zgonów
 - W USA każdy zgon osoby zarażonej wirusem, jest traktowany jako zgon z powodu tego koronawirusa. (np. jeśli ktoś jest chory na serce to też) 
 
+## Inwigilacja i niewolnictwo
+### ProteGO
+- Powstaje rządowa aplikacja **ProteGO**, która podzieli ludzi na 2 kategorie, ponieważ wprowadzi benefity dla osób które ją posiadają, np. promocje i pierwszeństwo w sklepach.
+- Śledzi m.in. lokalizację smartfona. System jest jednak zcentralizowany i nie anonimowy tak jak z założenia. i pozwala na sprawdzenie kto jest kim.
+- Po interwencji kilku osób, aplikacja szybko zniknęła z zaleceń rządowych na stronie ministerstwa rozwoju "z powodu niedopracowania" (ale prace nad nią nadal trwają).
+
+
 ## Instytucje rządowe, publiczne i powiązane
+### Wycieki danych
 - Poczta Polska wystąpiła do gmin o dane wyborców. Chce plików TXT lub CSV, spakowanych bez hasła. Do tego prośba została podpisana przez 'osobę' "Poczta Polska". Nie widzą z tym problemu.
 - Politechnika Warszawska dopuściła do wycieku danych studentów - nazwiska, emaile, numery indeksów, PESEL, NIP, daty urodzenia, adresy, nazwiska panieńskie matki, oceny, IP, średnie i opłaty - to wszystko było niezaszyfrowane w bazie danych SQL która wyciekła do sieci z systemu "OKNO"
