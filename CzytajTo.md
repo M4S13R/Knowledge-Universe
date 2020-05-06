@@ -47,7 +47,7 @@ Oczywiście aby zapisać i podzielić się tekstem przed ukończeniem dzieła, w
 - Jeśli jest mnóstwo szczegółowej wiedzy, lepiej jest przechowywać ją w oddzielnym pliku
 - Zbieramy wiedzę ze wszystkich dostępnych źródeł ale proszę napisać jaki był język źródła (w tytule brancha i w Źródła.md)
 - notatki i foldery na załączniki są w folderze "Knowledge", w folderze głównym nic nie dodawać!
-- wyjątkowo jeśli materiały są niewielkie a jest ich duża ilość, to jeśli mają jakiś "punkt wspólny" np. są z tej samej strony www to można zrobić na 1 branchu o nazwie tej strony
+- wyjątkowo jeśli materiały są niewielkie a jest ich duża ilość, to jeśli mają jakiś "punkt wspólny" np. są z tej samej strony www to można zrobić wszystkie z nich na 1 branchu (o nazwie np. tej strony) pod warunkiem, że commity będą nazywane zgodnie z dotychczasową zasadą nazewnictwa branch'ów
 
 ## Sekcje TODO
 Jeśli zostawisz coś nieukończonego, napisz **"TODO"**. Będzie wtedy ławo to znaleźć i ukończyć.
@@ -84,5 +84,5 @@ Używać wszystko co jest dostępne, np:
 
 **Pomysł i realizacja przez M4S13R, Maj 2020. Kopiowanie fragmentów Knowledge Universe Advanced jest dozwolone, ale tylko i wyłącznie bez modyfikacji, z odpowiednim kontekstem i z odsyłaczem do repozytorium.** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTEzOTE0XX0=
+eyJoaXN0b3J5IjpbMTgzMjQ1ODczN119
 -->
