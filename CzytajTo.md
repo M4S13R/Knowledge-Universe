@@ -36,7 +36,11 @@ Jak to wygląda w praktyce:
 8. Twoje zmiany, twój branch, zostanie przyłączony do brancha "master" przez administratora.
 9. Każdy branch to materiał z 1 źródła. Branch ze informacjami z kilku źródeł naraz będą **odrzucane**.
 
-Oczywiście aby zapisać i podzielić się tekstem przed ukończeniem dzieła, warto robić commity i pushować co jakiś czas.
+Oczywiście aby zapisać i podzielić się tekstem przed ukończeniem dzieła, warto robić commity i pushować co jakiś czas (jeśli 1 branch = 1 materiał).
+
+WAŻNE: Trzeba sprawdzać czy wszystko jest poprawne i źródła oraz załączniki są w porządku PRZED COMMITEM, ponieważ po commicie jest to trudniej cofnąć, a po pushowaniu to bardzo ciężko o ile w ogóle możliwe.
+
+WAŻNE: Jeśli materiały są niewielkie a jest ich duża ilość oraz jeśli mają jakiś "punkt wspólny" np. są z tej samej strony www to można zrobić wszystkie z nich na 1 branchu (o nazwie np. tej strony) pod warunkiem, że commity będą nazywane zgodnie z dotychczasową zasadą nazewnictwa branch'ów, oraz przede wszystkim, że źródła zmian w każdym commicie zostaną wpisane w każdym commicie. Jeśli zabraknie źródeł w jakimś z commitów, nie zaakcaptuję całego brancha. Należy to przedtem poprawić.
 
 ## Zasady
 - **Każdy branch to materiały z 1 źródła **
@@ -47,7 +51,6 @@ Oczywiście aby zapisać i podzielić się tekstem przed ukończeniem dzieła, w
 - Jeśli jest mnóstwo szczegółowej wiedzy, lepiej jest przechowywać ją w oddzielnym pliku
 - Zbieramy wiedzę ze wszystkich dostępnych źródeł ale proszę napisać jaki był język źródła (w tytule brancha i w Źródła.md)
 - notatki i foldery na załączniki są w folderze "Knowledge", w folderze głównym nic nie dodawać!
-- wyjątkowo jeśli materiały są niewielkie a jest ich duża ilość, to jeśli mają jakiś "punkt wspólny" np. są z tej samej strony www to można zrobić wszystkie z nich na 1 branchu (o nazwie np. tej strony) pod warunkiem, że commity będą nazywane zgodnie z dotychczasową zasadą nazewnictwa branch'ów
 
 ## Sekcje TODO
 Jeśli zostawisz coś nieukończonego, napisz **"TODO"**. Będzie wtedy ławo to znaleźć i ukończyć.
