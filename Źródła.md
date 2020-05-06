@@ -16,4 +16,7 @@ Przykładowy wpis:
 5. 28.04.2020 "Jak sprawdzić czy ktoś z Twoich znajomych jest na kwarantannie?", https://niebezpiecznik.pl/post/jak-sprawdzic-czy-ktos-z-twoich-znajomych-jest-na-kwarantannie/
 6. 05.05.2020 "Policjant robi zdjęcia prawom jazdy zatrzymywanych osób i wrzuca je na Instagrama", https://niebezpiecznik.pl/post/policjant-robi-zdjecia-prawom-jazdy-zatrzymywanych-osob-i-wrzuca-je-na-instagrama/
 7. 30.04.2020 "Programista, który pracował przy aplikacji ProteGO Safe odradza jej instalację", https://niebezpiecznik.pl/post/programista-pracujacy-przy-aplikacji-protego-safe-odradza-jej-instalacje/
-
+8. 29.04.2020 "Dlaczego nie piszę się na Contact Tracing", https://jasisz.github.io/contact-tracing
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNjY5MjMwOTFdfQ==
+-->
