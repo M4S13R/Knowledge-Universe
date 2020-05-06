@@ -13,6 +13,7 @@
 - Po interwencji kilku osób, aplikacja szybko zniknęła z zaleceń rządowych na stronie ministerstwa rozwoju "z powodu niedopracowania" (ale prace nad nią nadal trwają).
 - Google i Apple pracują nad podobnymi rozwiązaniami ale zdecentralizowanymi
 - https://github.com/ProteGO-Safe
+- https://github.com/DP-3T
 
 
 ## Instytucje rządowe, publiczne i powiązane
@@ -27,5 +28,5 @@
 - Policjant o nicku "niebieski_ja" wrzucał na Instagrama zdjęcia praw jazd zatrzymywanych osób (co prawda rozmyte, ale oryginalne są w pamięci jego telefonu i być może na chmurze) (RODO)
 - Policja ignoruje podszywanie się kogoś pod policjanta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzMyNjM4Nl19
+eyJoaXN0b3J5IjpbNzY0NDAwODUzXX0=
 -->
