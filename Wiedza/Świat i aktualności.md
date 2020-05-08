@@ -2,11 +2,19 @@
 
 # 2020
 ## Koronawirus (COVID-19)
-### Istnienie
+### Fakty
+- Śmiertelność jest na poziomie **zwykłej grypy**
 - Były pracownik Vodafone, twierdzi, że może nie istnieć (że to 5G wywołuje skutki). Wirus powstaje poprzez zatrucie komórek promieniowaniem
+
+### Co mówią lekarze
+- nie wytworzymy odporności "zbiorowej" na kwarantannie
+- wirus jest najgroźniejszy dla ludzi w wieku 70+
 
 ### Oszustwo statystyk ilości chorych i zgonów
 - W USA każdy zgon osoby zarażonej wirusem, jest traktowany jako zgon z powodu tego koronawirusa. (np. jeśli ktoś jest chory na serce to też) 
+
+### Skutki
+- masowe i narastające ograniczanie wolności obywatelskich, nakazy i zakazy
 
 ## Sieć 5G
 ### Oficjalny cel
