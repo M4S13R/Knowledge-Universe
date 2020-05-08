@@ -18,6 +18,8 @@ Przykładowy wpis:
 7. 30.04.2020 "Programista, który pracował przy aplikacji ProteGO Safe odradza jej instalację", https://niebezpiecznik.pl/post/programista-pracujacy-przy-aplikacji-protego-safe-odradza-jej-instalacje/
 8. 29.04.2020 "Dlaczego nie piszę się na Contact Tracing", https://jasisz.github.io/contact-tracing
 9. 03.04.2020 "Były pracownik Vodafone UJAWNIA  prawdziwe OBLICZE KORONAWIRUSA", https://www.youtube.com/watch?v=dk7e9xS3YKQ
+10. 07.05.2020 "Kalifornijski lekarz w imieniu wielu pracowników medycznych mówi prawdę o pandemii
+(Jeff B.)", https://www.youtube.com/watch?v=iGLWqvjtQFc
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNjY5MjMwOTFdfQ==
